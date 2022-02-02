@@ -99,12 +99,12 @@ a:hover {
   transform: translate(-50%, -50%);
 }
 
-.cont-bottom-header h1 {
+h1 {
   margin-bottom: 30px;
   font-size: 50px;
 }
 
-.cont-bottom-header p {
+p {
   margin-bottom: 30px;
   font-size: 17px;
 }
@@ -125,4 +125,14 @@ a:hover {
 
 .cont-img {
   margin: 40px;
+  width: 60%;
+}
+
+.cont-img img {
+  width: 100%;
+}
+
+.cont-test {
+  width: 32%;
+  margin-top: 80px;
 }
